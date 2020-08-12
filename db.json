@@ -1,27 +1,26 @@
 {
-   "data":
-      {
-         "id": 14,
-	 "name": "Cooler Master Alcor",
-         "launch_year": 2014,
-         "dimensions": "125 x 60 x 40",
-         "weight": "86",
-         "image": "Cooler-Master-Alcor-small.png"
-      },
-      {
-         "id": 15,
-	 "name": "Cooler Master Havoc",
-         "launch_year": 2013,
-         "dimensions": "125 x 85 x 45",
-         "weight": "140",
-         "image": "cooler-master-havoc.png"
-      },
-      {
-         "id": 15,
-	 "name": "Cooler Master Inferno",
-         "launch_year": 2010,
-         "dimensions": "120 x 75 x 40",
-         "weight": "?",
-         "image": "cm-inferno.png"
-      }
+   {
+      "id": 14,
+      "name": "Cooler Master Alcor",
+      "launch_year": 2014,
+      "dimensions": "125 x 60 x 40",
+      "weight": "86",
+      "image": "Cooler-Master-Alcor-small.png"
+   },
+   {
+      "id": 15,
+      "name": "Cooler Master Havoc",
+      "launch_year": 2013,
+      "dimensions": "125 x 85 x 45",
+      "weight": "140",
+      "image": "cooler-master-havoc.png"
+   },
+   {
+      "id": 15,
+      "name": "Cooler Master Inferno",
+      "launch_year": 2010,
+      "dimensions": "120 x 75 x 40",
+      "weight": "?",
+      "image": "cm-inferno.png"
+   }
 }
