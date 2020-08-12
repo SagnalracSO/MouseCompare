@@ -1,0 +1,14 @@
+[
+  { 
+  	 "loanAccountNo": "500507082020",
+     "amountWrittenOff": "$320,800"
+  },
+  { 
+  	 "loanAccountNo": "308205105020",
+     "amountWrittenOff": "$170,750"
+  },
+  { 
+  	 "loanAccountNo": "120205205070",
+     "amountWrittenOff": "$186,800"
+  }
+];
