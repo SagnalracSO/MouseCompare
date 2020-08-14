@@ -29,21 +29,6 @@
     { "firstName": "Jackson", "lastName": "Bradshaw", "position": "Director", "office": "New York",  "age": 65, "startDate": "2008/09/26", "salary": "$645,750.00", "extn": "5407", "email": "j.bradshaw@datatables.net" },
     { "firstName": "Jena", "lastName": "Gaines", "position": "Office Manager", "office": "London",  "age": 30, "startDate": "2008/12/19", "salary": "$90,560.00", "extn": "5407", "email": "j.gaines@datatables.net" },
     { "firstName": "Jenette", "lastName": "Caldwell", "position": "Development Lead", "office": "New York",  "age": 30, "startDate": "2011/09/03", "salary": "$345,000.00", "extn": "5407", "email": "j.caldwell@datatables.net" },
-    { "firstName": "Jennifer", "lastName": "Chang", "position": "Regional Director", "office": "Singapore",  "age": 28, "startDate": "2010/11/14", "salary": "$357,650.00", "extn": "5407", "email": "j.chang@datatables.net" },
-    { "firstName": "Jennifer", "lastName": "Acosta", "position": "Junior Javascript Developer", "office": "Edinburgh",  "age": 43, "startDate": "2013/02/01", "salary": "$75,650.00", "extn": "5407", "email": "j.acosta@datatables.net" },
-    { "firstName": "Jonas", "lastName": "Alexander", "position": "Developer", "office": "San Francisco",  "age": 30, "startDate": "2010/07/14", "salary": "$86,500.00", "extn": "5407", "email": "j.alexander@datatables.net" },
-    { "firstName": "Lael", "lastName": "Greer", "position": "Systems Administrator", "office": "London",  "age": 21, "startDate": "2009/02/27", "salary": "$103,500.00", "extn": "5407", "email": "l.greer@datatables.net" },
-    { "firstName": "Martena", "lastName": "Mccray", "position": "Post-Sales support", "office": "Edinburgh",  "age": 46, "startDate": "2011/03/09", "salary": "$324,050.00", "extn": "5407", "email": "m.mccray@datatables.net" },
-    { "firstName": "Michael", "lastName": "Silva", "position": "Marketing Designer", "office": "London",  "age": 66, "startDate": "2012/11/27", "salary": "$198,500.00", "extn": "5407", "email": "m.silva@datatables.net" },
-    { "firstName": "Michael", "lastName": "Bruce", "position": "Javascript Developer", "office": "Singapore",  "age": 29, "startDate": "2011/06/27", "salary": "$183,000.00", "extn": "5407", "email": "m.bruce@datatables.net" },
-    { "firstName": "Michelle", "lastName": "House", "position": "Integration Specialist", "office": "Sydney",  "age": 37, "startDate": "2011/06/02", "salary": "$95,400.00", "extn": "5407", "email": "m.house@datatables.net" },
-    { "firstName": "Olivia", "lastName": "Liang", "position": "Support Engineer", "office": "Singapore",  "age": 64, "startDate": "2011/02/03", "salary": "$234,500.00", "extn": "5407", "email": "o.liang@datatables.net" },
-    { "firstName": "Paul", "lastName": "Byrd", "position": "Chief Financial Officer (CFO)", "office": "New York",  "age": 64, "startDate": "2010/06/09", "salary": "$725,000.00", "extn": "5407", "email": "p.byrd@datatables.net" },
-    { "firstName": "Prescott", "lastName": "Bartlett", "position": "Technical Author", "office": "London",  "age": 27, "startDate": "2011/05/07", "salary": "$145,000.00", "extn": "5407", "email": "p.bartlett@datatables.net" },
-    { "firstName": "Quinn", "lastName": "Flynn", "position": "Support Lead", "office": "Edinburgh",  "age": 22, "startDate": "2013/03/03", "salary": "$342,000.00", "extn": "5407", "email": "q.flynn@datatables.net" },
-    { "firstName": "Rhona", "lastName": "Davidson", "position": "Integration Specialist", "office": "Tokyo",  "age": 55, "startDate": "2010/10/14", "salary": "$327,900.00", "extn": "5407", "email": "r.davidson@datatables.net" },
-    { "firstName": "Sakura", "lastName": "Yamamoto", "position": "Support Engineer", "office": "Tokyo",  "age": 37, "startDate": "2009/08/19", "salary": "$139,575.00", "extn": "5407", "email": "s.yamamoto@datatables.net" },
-    { "firstName": "Serge", "lastName": "Baldwin", "position": "Data Coordinator", "office": "Singapore",  "age": 64, "startDate": "2012/04/09", "salary": "$138,575.00", "extn": "5407", "email": "s.baldwin@datatables.net" },
-    { "firstName": "Shad", "lastName": "Decker", "position": "Regional Director", "office": "Edinburgh",  "age": 51, "startDate": "2008/11/13", "salary": "$183,000.00", "extn": "5407", "email": "s.decker@datatables.net" }
+    { "firstName": "Jennifer", "lastName": "Chang", "position": "Regional Director", "office": "Singapore",  "age": 28, "startDate": "2010/11/14", "salary": "$357,650.00", "extn": "5407", "email": "j.chang@datatables.net" }
   ]
 }
