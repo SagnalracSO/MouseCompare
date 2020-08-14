@@ -44,8 +44,6 @@
     { "firstName": "Rhona", "lastName": "Davidson", "position": "Integration Specialist", "office": "Tokyo",  "age": 55, "startDate": "2010/10/14", "salary": "$327,900.00", "extn": "5407", "email": "r.davidson@datatables.net" },
     { "firstName": "Sakura", "lastName": "Yamamoto", "position": "Support Engineer", "office": "Tokyo",  "age": 37, "startDate": "2009/08/19", "salary": "$139,575.00", "extn": "5407", "email": "s.yamamoto@datatables.net" },
     { "firstName": "Serge", "lastName": "Baldwin", "position": "Data Coordinator", "office": "Singapore",  "age": 64, "startDate": "2012/04/09", "salary": "$138,575.00", "extn": "5407", "email": "s.baldwin@datatables.net" },
-    { "firstName": "Shad", "lastName": "Decker", "position": "Regional Director", "office": "Edinburgh",  "age": 51, "startDate": "2008/11/13", "salary": "$183,000.00", "extn": "5407", "email": "s.decker@datatables.net" },
-    { "firstName": "Shou", "lastName": "Itou", "position": "Regional Marketing", "office": "Tokyo",  "age": 20, "startDate": "2011/08/14", "salary": "$163,000.00", "extn": "5407", "email": "s.itou@datatables.net" },
-    { "firstName": "Sonya", "lastName": "Frost", "position": "Software Engineer", "office": "Edinburgh",  "age": 23, "startDate": "2008/12/13", "salary": "$103,600.00", "extn": "5407", "email": "s.frost@datatables.net" }
+    { "firstName": "Shad", "lastName": "Decker", "position": "Regional Director", "office": "Edinburgh",  "age": 51, "startDate": "2008/11/13", "salary": "$183,000.00", "extn": "5407", "email": "s.decker@datatables.net" }
   ]
 }
