@@ -51,11 +51,6 @@
     { "firstName": "Tatyana", "lastName": "Fitzpatrick", "position": "Regional Director", "office": "London",  "age": 19, "startDate": "2010/03/17", "salary": "$385,750.00", "extn": "5407", "email": "t.fitzpatrick@datatables.net" },
     { "firstName": "Thor", "lastName": "Walton", "position": "Developer", "office": "New York",  "age": 61, "startDate": "2013/08/11", "salary": "$98,540.00", "extn": "5407", "email": "t.walton@datatables.net" },
     { "firstName": "Tiger", "lastName": "Nixon", "position": "System Architect", "office": "Edinburgh",  "age": 61, "startDate": "2011/04/25", "salary": "$320,800.00", "extn": "5407", "email": "t.nixon@datatables.net" },
-    { "firstName": "Timothy", "lastName": "Mooney", "position": "Office Manager", "office": "London",  "age": 37, "startDate": "2008/12/11", "salary": "$136,200.00", "extn": "5407", "email": "t.mooney@datatables.net" },
-    { "firstName": "Unity", "lastName": "Butler", "position": "Marketing Designer", "office": "San Francisco",  "age": 47, "startDate": "2009/12/09", "salary": "$85,675.00", "extn": "5407", "email": "u.butler@datatables.net" },
-    { "firstName": "Vivian", "lastName": "Harrell", "position": "Financial Controller", "office": "San Francisco",  "age": 62, "startDate": "2009/02/14", "salary": "$452,500.00", "extn": "5407", "email": "v.harrell@datatables.net" },
-    { "firstName": "Yuri", "lastName": "Berry", "position": "Chief Marketing Officer (CMO)", "office": "New York",  "age": 40, "startDate": "2009/06/25", "salary": "$675,000.00", "extn": "5407", "email": "y.berry@datatables.net" },
-    { "firstName": "Zenaida", "lastName": "Frank", "position": "Software Engineer", "office": "New York",  "age": 63, "startDate": "2010/01/04", "salary": "$125,250.00", "extn": "5407", "email": "z.frank@datatables.net" },
-    { "firstName": "Zorita", "lastName": "Serrano", "position": "Software Engineer", "office": "San Francisco",  "age": 56, "startDate": "2012/06/01", "salary": "$115,000.00", "extn": "5407", "email": "z.serrano@datatables.net" }
+    { "firstName": "Timothy", "lastName": "Mooney", "position": "Office Manager", "office": "London",  "age": 37, "startDate": "2008/12/11", "salary": "$136,200.00", "extn": "5407", "email": "t.mooney@datatables.net" }
   ]
 }
